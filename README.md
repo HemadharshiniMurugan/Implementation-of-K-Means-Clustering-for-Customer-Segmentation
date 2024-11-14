@@ -27,11 +27,9 @@ Step 8. Stop the program
 
 ## Program:
 ```
-/*
 Program to implement the K Means Clustering for Customer Segmentation.
 Developed by: Hemadharshini M
 RegisterNumber: 212222040053
-*/
 ```
 ```
 import pandas as pd
